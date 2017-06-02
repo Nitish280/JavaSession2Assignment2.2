@@ -1,0 +1,11 @@
+Compiler:
+1.It takes the whole source code at once.
+2.It Checks the whole program at once
+2.Program need not to compiled every time.
+3.Error are displayed after whole program is checked.
+
+Interpreter:
+1.It takes the single instruction at once.
+2.It checks the instruction one by one.
+2.Every time higher level program is converted into lower level program.
+3.Error are displayed after every instruction.
